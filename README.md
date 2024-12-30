@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+-I'm currentlu working on web development
+-I'm currently learning web development 
+-I'm reach me on gmail: "reddyraghavendra2005@gmail.com"
+
 <!--
 **Raghavendra510/Raghavendra510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
