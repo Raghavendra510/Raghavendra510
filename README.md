@@ -1,6 +1,5 @@
 ## Hi there 👋
 
--I'm currentlu working on web development<br>
 -I'm currently learning web development <br>
 -I'm reach me on gmail: "reddyraghavendra2005@gmail.com"
 
